@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&colors=E61919" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditidutta696-dev&layout=compact&theme=radical&colors=E61919" alt="Top Langs" />
 </p>
 
 ---
@@ -68,14 +68,14 @@ Passionate **Cybersecurity Developer** with a focus on **Automated Defense (SOAR
 
 ## 📈 SYSTEM METRICS & ACTIVITY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&title_color=E61919&icon_color=E61919&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditidutta696-dev&show_icons=true&theme=radical&hide_border=true&title_color=E61919&icon_color=E61919&text_color=ffffff" />
 </p>
 
 ---
 
 ## 📡 SECURE COMMUNICATION CHANNELS
-- 💼 **LinkedIn:** [Insert Link]
-- 📧 **Secure Mail:** [Insert Email]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditi-datta-a43a2a382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 **Secure Mail:** dattaaditi423@gmail.com
 - 🛡️ **Forage Verification:** `qoZpRhQQCPsL4MtEe` (Telstra) | `Zy24v8nC3a2BRvp2C` (Deloitte) | `N3gKyb3oq6hvtp4ev` (Tata)
 
 ---
